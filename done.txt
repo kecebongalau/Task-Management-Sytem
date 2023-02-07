@@ -1,0 +1,11 @@
+Low Priority:cleaning dishes:18/5/22:19/05/22:DONE:25/05/22:
+Urgent:Berak:06/06/22:06/06/22:DONE:06/06/22:
+Moderate:math:18/05/22:23/5/22:DONE:06/06/22:
+Moderate:SAAD assignment:18/05/22:22/05/22:DONE:06/06/22:
+Moderate:New testing:19/05/22:27/06/22:DONE:20/06/22:
+Urgent:C assignment:23/05/22:24/05/22:DONE:20/06/22:
+Moderate:C assessment:06/06/22:22/06/22:DONE:21/06/22:
+Urgent:Math quiz chapter 3:22/06/22:22/06/22:DONE:22/06/22:
+Low Priority:Final testing:07/06/22:07/06/22:DONE:22/06/22:
+Moderate:Testing new function:07/06/22:23/12/22:DONE:22/06/22:
+Urgent:C presentation:21/06/22:21/06/22:DONE:22/06/22:
